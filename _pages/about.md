@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Graduate School of Science and Engineering</p>
-    <p>Chiba University</p>
+    <p>Chiba University, </p>
     <p>Chiba, Japan</p>
 
 selected_papers: true
