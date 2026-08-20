@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a doctoral candidate at Chiba University, where I work with Prof. Kazuteru Namba on the reliability of computing systems built on emerging memory technologies.
+I am a doctoral candidate in the Namba Laboratory at Chiba University, where I study the reliability of computing systems built on emerging memory technologies.
 
 My main research addresses the reliability of neural network inference on emerging non-volatile memory. In particular, I study how conductance drift in Phase Change Memory (PCM) degrades inference accuracy over time, and propose layer-aware selective protection strategies that concentrate limited protection resources on the weights that matter most.
 
